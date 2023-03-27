@@ -1,0 +1,28 @@
+diff a/panthers.yaml b/panthers.yaml	(rejected hunks)
+@@ -2,22 +2,10 @@
+ 
+ manager: Sevastian
+ 
+-<<<<<<< HEAD
+ coach: Shirley
+ 
+-=======
+-<<<<<<< HEAD
+-<<<<<<< HEAD
+-=======
+-coach: Teddy
+-
+->>>>>>> add-coach
+-=======
+-coach: Teddy
+-
+->>>>>>> add-coach
+->>>>>>> dasd
+ members:
+ - Violet
+ - Stella
+-- Anthony
+\ No newline at end of file
++- Anthony
++- Maruchi
+\ No newline at end of file
