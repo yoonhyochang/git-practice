@@ -1,11 +1,23 @@
 team: Panthers
 
-manager: Sebastian
+manager: Sevastian
 
+<<<<<<< HEAD
 coach: Shirley
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+coach: Teddy
+
+>>>>>>> add-coach
+=======
+coach: Teddy
+
+>>>>>>> add-coach
+>>>>>>> dasd
 members:
 - Violet
 - Stella
 - Anthony
-- Freddie
